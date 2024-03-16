@@ -1,0 +1,22 @@
+{
+  "name": "react-tupple",
+  "version": "1.0.1",
+  "description": "react-tupple",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn run test"
+  },
+  "keywords": [
+    "react-tupple",
+    "react"
+  ],
+  "author": "hieus207",
+  "devDependencies": {
+    "react": "17.0.2",
+    "react-native": "0.68.2"
+  },
+  "dependencies": {
+    "reactjs-audiotag": "^1.0.1",
+    "react-music-tag": "^1.0.1"
+  }
+}
