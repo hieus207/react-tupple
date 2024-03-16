@@ -6,9 +6,16 @@
   "scripts": {
     "test": "yarn run test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hieus207/react-tupple"
+  },
   "keywords": [
     "react-tupple",
-    "react"
+    "react",
+    "native",
+    "audio",
+    "story"
   ],
   "author": "hieus207",
   "devDependencies": {
@@ -18,5 +25,10 @@
   "dependencies": {
     "reactjs-audiotag": "^1.0.1",
     "react-music-tag": "^1.0.1"
-  }
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieus207/react-tupple/issues"
+  },
+  "homepage": "https://github.com/hieus207/react-tupple"
 }
